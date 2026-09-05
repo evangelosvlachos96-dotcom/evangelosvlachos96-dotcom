@@ -115,7 +115,7 @@ I'm always open to interesting collaborations, technical discussions, or opportu
 
 - 📧 Email: [evangelos.vlachos.96@gmail.com](mailto:evangelos.vlachos.96@gmail.com)
 - 📱 Phone: [+30 694 703 9183](tel:+306947039183)
-- 💼 LinkedIn: [linkedin.com/in/evangelos-vlachos-software-engineer](https://linkedin.com/in/evangelos-vlachos-software-engineer)
+- 💼 LinkedIn: [linkedin.com/in/evanvlac](https://www.linkedin.com/in/evanvlac)
 - 💻 GitHub: You're already here!
 - 🖥️ Portfolio: [vlachossolutionsltd.wordpress.com](https://vlachossolutionsltd.wordpress.com/)
 

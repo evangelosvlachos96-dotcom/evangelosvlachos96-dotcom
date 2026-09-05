@@ -121,10 +121,11 @@ I'm always open to interesting collaborations, technical discussions, or opportu
 
 ---
 
-## 💬 Let's Talk
+## 🎭 Hot Take Corner
 
-I'm passionate about team culture and engineering leadership.  
-**[Join the discussion → Is "Micromanagement" Defined by the Engineer, or the System?](https://github.com/evangelosvlachos96-dotcom/evangelosvlachos96-dotcom/discussions/1)**
+*Micromanagement: Villain or misunderstood mentor?*  
+I'm hosting a no-BS debate on team culture.  
+**[👉 Come pick a side (and defend it)](https://github.com/evangelosvlachos96-dotcom/evangelosvlachos96-dotcom/discussions/1)** – don't worry, I don't bite. Much. 😏
 
 ---
 

@@ -121,6 +121,13 @@ I'm always open to interesting collaborations, technical discussions, or opportu
 
 ---
 
+## 💬 Let's Talk
+
+I'm passionate about team culture and engineering leadership.  
+**[Join the discussion → Is "Micromanagement" Defined by the Engineer, or the System?](https://github.com/evangelosvlachos96-dotcom/evangelosvlachos96-dotcom/discussions/1)**
+
+---
+
 *"Comfortable working standalone, in small focused teams, or as part of a large corporate organization."*
 
 ---

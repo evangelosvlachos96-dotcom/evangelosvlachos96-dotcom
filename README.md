@@ -8,8 +8,9 @@
 [![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01401197e2b19c9b73)
 [![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/sellers/evanvlac/)
 [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/33093848/evangelos-vlachos)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=wordpress&logoColor=white)](https://vlachossolutionsltd.wordpress.com/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logoColor=white)](https://vlachossolutionsltd.wordpress.com/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:evangelos.vlachos.96@gmail.com)
+[![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+306947039183)
 
 ---
 
@@ -24,6 +25,28 @@ Currently applying that engineering depth to **frontier AI development**: evalua
 - ☁️ **Cloud**: Azure (App Services, Cosmos DB, AKS, Service Bus, API Management, Data Factory, Application Insights).
 - 💻 **Languages**: C# / .NET (Core 5 → 10), TypeScript, Angular, Python, Go, Java.
 - 🔧 **DevOps**: Azure DevOps, CI/CD pipelines, OpenShift, Docker, Kafka.
+
+---
+
+## 🚀 Previous Work: Roivo (Private Project)
+
+**Roivo** is a cashflow intelligence platform for Greek SMBs and accountants that I designed, built, and maintained. It was **live from July 2024 to January 2026** and is currently in pre-launch development for a second iteration.
+
+**What it does:**
+- Combines PSD2 open banking APIs with AADE/myDATA tax data.
+- Automates reconciliation between bank transactions and tax records.
+- Forecasts cashflow 90 days ahead.
+- Warns users about upcoming tax obligations.
+
+**Tech Stack:**
+- **Backend:** .NET 10 (LTS), ASP.NET Core 10, Blazor Server
+- **Database:** PostgreSQL 16, EF Core 10 with Npgsql
+- **Auth:** ASP.NET Core Identity + OpenIddict
+- **Background Jobs:** Hangfire
+- **UI:** MudBlazor
+- **Logging:** Serilog
+
+> ℹ️ **Note:** This repository is private and not publicly visible on GitHub. I am happy to showcase parts of it or discuss the architecture in detail upon request (e.g., during interviews or collaboration discussions).
 
 ---
 
@@ -44,7 +67,7 @@ I'm active across multiple platforms where I share knowledge, take on freelance 
 ## 🔭 What I'm Currently Working On
 
 - **AI Model Evaluation:** Auditing LLM behavior on expert-level software engineering tasks across 7 behavioral dimensions (honesty, safety, clarity, etc.).
-- **Finance & Accounting Platform:** Building a .NET 10 + Blazor Server app connecting to AADE/myDATA and PSD2 open-banking APIs for automated reconciliation & cashflow forecasting.
+- **Roivo (v2):** Building the next iteration of the cashflow intelligence platform with .NET 10, Blazor Server, PostgreSQL 16, and Hangfire.
 - **Open Source Migration:** Modernizing my public GitHub repositories with professional READMEs, CI/CD, and clean architecture demos.
 
 ---
@@ -65,7 +88,7 @@ I'm active across multiple platforms where I share knowledge, take on freelance 
 
 ---
 
-## 🌟 Featured Projects
+## 🌟 Featured Public Projects
 
 ### [Microservices Tracing with Kafka & OpenTelemetry](https://github.com/evangelosvlachos96-dotcom/microservices-tracing-kafka-opentelemetry)
 Distributed microservices architecture with OpenTelemetry tracing, Kafka messaging, and auto/manual instrumentation visualized in Uptrace.
@@ -91,6 +114,7 @@ A modern Clean Architecture template for .NET 8+ applications. Built with Domain
 I'm always open to interesting collaborations, technical discussions, or opportunities where I can apply deep engineering and AI evaluation skills.
 
 - 📧 Email: [evangelos.vlachos.96@gmail.com](mailto:evangelos.vlachos.96@gmail.com)
+- 📱 Phone: [+30 694 703 9183](tel:+306947039183)
 - 💼 LinkedIn: [linkedin.com/in/evangelos-vlachos-software-engineer](https://linkedin.com/in/evangelos-vlachos-software-engineer)
 - 💻 GitHub: You're already here!
 - 🖥️ Portfolio: [vlachossolutionsltd.wordpress.com](https://vlachossolutionsltd.wordpress.com/)

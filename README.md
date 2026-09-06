@@ -60,7 +60,7 @@ I'm active across multiple platforms where I share knowledge, take on freelance 
 | **[Fiverr](https://www.fiverr.com/sellers/evanvlac/)** | Quick turnaround development services |
 | **[Stack Overflow](https://stackoverflow.com/users/33093848/evangelos-vlachos)** | Answering C#, .NET, and Azure questions |
 | **[YouTube](https://www.youtube.com/@evangelosvlachos1827)** | Tech tutorials, architecture discussions, and project walkthroughs |
-| **[Portfolio](https://vlachossolutionsltd.wordpress.com/)** | My personal portfolio showcasing past projects |
+| **[Portfolio](https://vlachossolutionsltd.wordpress.com/)** | My personal portfolio showcasing past projects | https://camo.githubusercontent.com/fcfaecd7883c25b1bc615390b5f4def35722fdbeea42f282a8bb88bfba5c806b/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d6761757261763031303726636f6c6f723d353435343534267374796c653d666c61742d737175617265266c6162656c3d766973697473
 
 ---
 

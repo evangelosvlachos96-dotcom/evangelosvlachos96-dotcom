@@ -103,8 +103,8 @@ A modern Clean Architecture template for .NET 8+ applications. Built with Domain
 ## 📜 Certifications & Education
 
 - **MSc Artificial Intelligence** – Aston University London *(2026 - Present)*
-- **MIT xPRO: Professional Certificate in Advanced Analytics with AI, ML, and Data Science** *(2026)*
-- **Microsoft Certified: Azure Fundamentals (AZ-900)** *(2026)*
+- **MIT xPRO: Professional Certificate in Advanced Analytics with AI, ML, and Data Science** *(2026 - Present)*
+- **Microsoft Azure Essentials Certificate** *(2026)*
 - **BSc Informatics Engineering** – International Hellenic University *(2022)*
 
 ---
